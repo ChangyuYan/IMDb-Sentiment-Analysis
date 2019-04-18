@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+test/
+train/
+*.txt
+*.vocab
+
+*.csv
+__pycache__/
+
+.DS_Store
